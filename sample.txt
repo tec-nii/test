@@ -1,6 +1,3 @@
 sampleあああ
 修正
-Master修正修正
-Branch1修正
-Master追記
-test2追記
+
